@@ -8,7 +8,7 @@
         "forum": "https://discuss.neos.io/",
         "wiki": "https://discuss.neos.io/c/the-neos-project/project-documentation",
         "issues": "https://jira.neos.io/browse/NEOS",
-        "docs": "http://neos.readthedocs.org/",
+        "docs": "http://neos.readthedocs.io/",
         "source": "https://github.com/neos/neos-development-distribution"
     },
     "config": {
@@ -29,7 +29,7 @@
         "flowpack/neos-frontendlogin": "@dev",
         "typo3/buildessentials": "dev-master",
         "mikey179/vfsstream": "~1.6",
-        "phpunit/phpunit": "~4.8 || ~5.2.0",
+        "phpunit/phpunit": "~4.8 || ~5.4.0",
         "symfony/css-selector": "~2.0",
         "flowpack/behat": "dev-master"
     },
